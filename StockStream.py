@@ -285,7 +285,7 @@ elif(selected == 'About'):
     """, unsafe_allow_html=True)
     
     st.markdown('<p class="big-font">StockVistaIQ is a FInal Year project that presents an innovative approach to stock exchange prophecy, leveraging machine learning method .<br>Hope you enjoy this application well and get your desired output.<br> Cheers!</p>', unsafe_allow_html=True)
-    st.subheader(':blue[Suraj Raut]')
-    st.subheader(':blue[Chaitanya Deokar]')
-    st.subheader(':blue[Piyusha Shinde]')
-    st.subheader(':blue[Mrunal Shrigan]')
+    st.subheader('Suraj Raut')
+    st.subheader('Chaitanya Deokar')
+    st.subheader('Piyusha Shinde')
+    st.subheader('Mrunal Shrigan')

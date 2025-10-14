@@ -123,8 +123,6 @@ Forecast stock prices for the next **1–4 years** using Prophet:
 | Feature | Preview |
 |----------|----------|
 | Home Page | ![Home](Images/StockStreamLogo1.webp) |
-| Performance Comparison | *(Add a screenshot here)* |
-| Forecasting | *(Add a screenshot here)* |
 
 ---
 
@@ -150,3 +148,4 @@ This project is licensed under the **MIT License** — free to use and modify wi
 - [Facebook Prophet](https://facebook.github.io/prophet/)
 - [Yahoo Finance Python API](https://pypi.org/project/yfinance/)
 - [Plotly Graphing Library](https://plotly.com/python/)
+
